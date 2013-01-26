@@ -1,0 +1,48 @@
+Title:
+
+Quantitative community management
+
+Description:
+
+In recent years, communities as wide-ranging as Wikihow to Thunderbird have been surveying participants and using this information to improve the experiences of participants. A variety of open source projects are now tracking contributors to identify where people fall away, and to nudge them forward. In this talk, you will learn the state of the art in community measurement, common mistakes made in surveying, and how to actively use data to improve activity within a project.
+
+This talk will cover the following issues in detail:
+
+* How Wikipedia used A/B testing to improve contribution rejection messages
+* Based on entrance/exit surveys from OpenHatch's Open Source Comes to Campus program, what do new contributors know?
+* The impact of treating gender as a plain-text field, rather than a drop-down, on the answer rate
+* How Ubuntu's Developer Advisory Team tracks, contacts, and nudges new contributors
+* How motivations for Thunderbird contributors differ substantially from the FLOSSpols survey
+* How to misread your survey data (and tips on avoiding that)
+
+Upon leaving this talk, you will have a solid background in the current state of data collection within open source communities and how to apply those tools to your own project.
+
+Resources:
+
+* Wikipedia A/B testing:
+** http://blog.wikimedia.org/tag/ab-testing/ signup page
+** http://blog.wikimedia.org/2011/11/21/you-have-new-messages-improving-communication-on-wikipedia/ bot messages
+
+* Entrance/exit surveys:
+** Gotta go look at those, but that is kind of a mess
+
+* BPW's exit survey process: semi force people to do it while there
+** Is there a photo of this?
+
+* FLOSSpols
+** https://docs.google.com/viewer?a=v&q=cache:hmBq8hS3BpQJ:www.flossproject.org/workshop/presentations/FLOSS%40oekonux.pdf+&hl=en&gl=us&pid=bl&srcid=ADGEESjPABNk5HOR9XHESYNi7yaOjO_vz_nMPauzefYhXAAKlqa0DWqrbjNuUZxSrhxbQWhYoX9dEYSqvuUN8rYE8LNetRVu6G-lV39mLPrs6Td0EH0ehDSTZsbK9cdigL-yz0jsjT3G&sig=AHIEtbR4nEPtUTjc3CHxsmOfqEJF4sR5DQ is semi useful
+** I can't find the original source of the list of motivations
+
+* Thunderbird
+** http://bookmarks.makesad.us/insipid.cgi?tag=thunderbird
+
+
+* Plain text field
+** This is a simple one
+
+* Ubuntu DAT
+** Are the data/slides available? Hmm
+
+* Mako methodology thoughts
+** "opt in surveys are basically broken" "hopelessly broken, unless you know, very clealry, who has responded and who did not"
+** 
